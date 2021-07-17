@@ -16,17 +16,25 @@ graphene-django==2.15.0
 graphql-core==2.3.2
 graphql-relay==2.0.1
 idna==2.8
+<<<<<<< HEAD
 promise==2.3
 Pygments==2.3.1
+=======
+Pygments==2.7.4
+>>>>>>> 52a3678503df7a3cf97333ff5fc0f3827951e96d
 PyGObject==3.36.0
 python-apt==2.0.0+ubuntu0.20.4.5
 pytz==2021.1
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.22.0
 requests-unixsocket==0.2.0
 Rx==1.6.1
 singledispatch==3.6.2
 six==1.16.0
 sqlparse==0.4.1
+<<<<<<< HEAD
 text-unidecode==1.3
 urllib3==1.25.8
+=======
+urllib3==1.26.5
+>>>>>>> 52a3678503df7a3cf97333ff5fc0f3827951e96d
