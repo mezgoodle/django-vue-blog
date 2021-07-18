@@ -26,4 +26,4 @@ Rx==1.6.1
 singledispatch==3.6.2
 six==1.16.0
 sqlparse==0.4.1
-urllib3==1.25.0
+urllib3==1.26.5
