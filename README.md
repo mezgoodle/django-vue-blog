@@ -16,13 +16,6 @@
 
 I want to learn _Django_ and _Vue_. I saw this tutorial at [RealPython](https://realpython.com/) and have written code.
 
-## Build status :hammer:
-
-Here you can see build status of [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration):
-
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
-
 ## Tech/framework used :wrench:
 
 **Built with**
