@@ -9,12 +9,12 @@
 </h1>
 
 <p align="center">
-🌟Hello everyone! This is the repository of my lesson on Django and Vue project.🌟
+🌟Hello everyone! This is the repository of my lesson on Django and Vue project. It is tutorial project🌟
 </p>
 
 ## Motivation :exclamation:
 
-I want to learn _Django_ and _Vue_. I saw this tutorial at [RealPython](https://realpython.com/) and have written code. From me, I set up the CI.
+I want to learn _Django_ and _Vue_. I saw this tutorial at [RealPython](https://realpython.com/) and have written code.
 
 ## Build status :hammer:
 
