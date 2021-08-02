@@ -1,6 +1,6 @@
 aniso8601==7.0.0
 asgiref==3.4.1
-breezy==3.0.2
+breezy==3.2.1
 certifi==2019.11.28
 chardet==3.0.4
 configobj==5.0.6
