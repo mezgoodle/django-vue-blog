@@ -22,7 +22,7 @@ pytz==2021.1
 PyYAML==5.4
 requests==2.26.0
 requests-unixsocket==0.2.0
-Rx==1.6.1
+Rx==3.2.0
 singledispatch==3.6.2
 six==1.16.0
 sqlparse==0.4.1
