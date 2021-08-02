@@ -10,7 +10,7 @@ Django==3.2.5
 django-cors-headers==3.7.0
 django-utils-six==2.0
 dulwich==0.19.15
-fastimport==0.9.8
+fastimport==0.9.13
 graphene==2.1.8
 graphene-django==2.15.0
 graphql-core==2.3.2
