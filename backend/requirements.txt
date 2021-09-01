@@ -4,7 +4,7 @@ breezy==3.2.1
 certifi==2019.11.28
 chardet==3.0.4
 configobj==5.0.6
-Cython==0.29.23
+Cython==0.29.24
 dbus-python==1.2.16
 Django==3.2.5
 django-cors-headers==3.7.0
