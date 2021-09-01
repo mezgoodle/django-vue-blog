@@ -1,4 +1,4 @@
-aniso8601==7.0.0
+aniso8601==9.0.1
 asgiref==3.4.1
 breezy==3.2.1
 certifi==2019.11.28
