@@ -15,7 +15,7 @@ graphene==2.1.8
 graphene-django==2.15.0
 graphql-core==2.3.2
 graphql-relay==2.0.1
-idna==2.8
+idna==3.2
 Pygments==2.7.4
 PyGObject==3.40.1
 pytz==2021.1
