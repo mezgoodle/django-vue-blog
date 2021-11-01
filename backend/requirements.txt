@@ -2,7 +2,7 @@ aniso8601==9.0.1
 asgiref==3.4.1
 breezy==3.2.1
 certifi==2021.5.30
-chardet==3.0.4
+chardet==4.0.0
 configobj==5.0.6
 Cython==0.29.24
 dbus-python==1.2.16
