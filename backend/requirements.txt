@@ -7,7 +7,7 @@ configobj==5.0.6
 Cython==0.29.24
 dbus-python==1.2.16
 Django==3.2.5
-django-cors-headers==3.9.0
+django-cors-headers==3.10.0
 django-utils-six==2.0
 dulwich==0.20.25
 fastimport==0.9.14
