@@ -9,7 +9,7 @@ dbus-python==1.2.16
 Django==3.2.11
 django-cors-headers==3.10.0
 django-utils-six==2.0
-dulwich==0.20.26
+dulwich==0.20.32
 fastimport==0.9.14
 graphene==3.0
 graphene-django==2.15.0
